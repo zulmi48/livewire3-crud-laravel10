@@ -38,5 +38,5 @@ and
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co.com/xqx0s6K)
-![App Screenshot](https://ibb.co.com/q0zk6Fn)
+![App Screenshot](https://i.ibb.co.com/PGqnYgs/Students-Data.png)
+![App Screenshot](https://i.ibb.co.com/yhDW2BR/Students-Data-modal.png)
